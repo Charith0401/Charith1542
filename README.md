@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Charith1542
+- 👋 Hi, I’m @Charith
 - 👀 I’m interested in things
 - 🌱 I’m currently learning an annoying language called Dart
 - 💞️ I’m looking to collaborate on alot of important things
